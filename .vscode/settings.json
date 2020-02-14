@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/dedc3bd5-83e6-4a02-8054-a922e015f073/resourceGroups/UPAZSG-DEV-AI-RG/providers/Microsoft.Web/sites/KMHM-Marker-Plus"
+}
